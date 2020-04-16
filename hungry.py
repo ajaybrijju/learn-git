@@ -6,3 +6,5 @@ if hungry=="yes":
 
 else:
     print("Do your homework! dude!!!")
+    print("drink water")
+    print("drink soda")
