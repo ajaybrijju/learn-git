@@ -8,4 +8,6 @@ if hungry=="yes" and hungry=="Y":
 
 else:
     print("Do your homework! dude!!!")
-    
+    print("drink water")
+    print("drink soda")
+    print("new line added")
